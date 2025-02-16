@@ -3,7 +3,7 @@ dway away ka shtakant add krd ama bnusa bas ba nawi file
 2 git add abdulla hama
 3 git commit -m "Updated abdulla and added hama"
 4 git push origin main
-dway ama daway user  u pass akat la user: muhammed-108 la password : 
+dway ama daway user  u pass akat la user: muhammed-108 la password : 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
 
 ama anusi bo away ka chitr daway password nakat ka token:
 git config --global credential.helper store
