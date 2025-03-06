@@ -6,7 +6,7 @@ git config --global credential.helper store
 
 3 git commit -m "Updated abdulla and added hama"
 4 git push origin main
-dway ama daway user  u pass akat la user: muhammed-108 la password : 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p
+dway ama daway user  u pass akat la user: muhammed-108 la password : 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p
 
 ama anusi bo away ka chitr daway password nakat ka token:
 git config --global credential.helper store
